@@ -3,5 +3,5 @@
 ## APG4b
 - AtCoder programming guid for beginner
 
-## 演算ノート
-- 演算法與資料結構應用全圖解
+## AlgorithmNote
+- book1 ( 演算法與資料結構應用全圖解 )
